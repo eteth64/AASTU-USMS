@@ -23,7 +23,7 @@ function HomePage() {
       <section className="py-20 text-white bg-blue-700">
         <div className="container px-6 mx-auto text-center">
           <h1 className="mb-6 text-4xl font-bold md:text-6xl">
-            Welcome to University Student Management System
+            Welcome  to AASTU  Student Management System
           </h1>
           <p className="mb-8 text-lg md:text-2xl">
             Manage students, instructors, and administration easily in one platform.
